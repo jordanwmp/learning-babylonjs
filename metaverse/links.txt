@@ -1,0 +1,11 @@
+https://github.com/voxeet/workshop-babylonjs-metaverse/tree/main/docs
+
+BABYLON.JS metaverse
+https://www.babylonjs.com/digitalTwinIot/
+https://learn.microsoft.com/en-us/azure/digital-twins/concepts-3d-scenes-studio
+
+
+########## METAVERSO AND DIGITAL TWIN ##########
+
+https://www.kozikaza.com/plan-3d-maison
+
